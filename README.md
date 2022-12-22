@@ -6,7 +6,7 @@
 # pkg install git
 # git clone https://github.com/VisalAfghan1122/visal-clone.git
 # cd visal_clone
-# is
+# Is
 # python visal_clone.py
 # created by visal afghan
 
