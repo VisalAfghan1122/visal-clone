@@ -4,7 +4,7 @@
 # pkg install Python
 # pkg install pyhton2
 # pkg install git
-git clone https://github.com/VisalAfghan1122/visal-clone.git
+git clone
 cd visal_clone
 is
 # python visal_clone.py
