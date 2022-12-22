@@ -7,7 +7,8 @@
 # git clone https://github.com/VisalAfghan1122/visal-clone.git
 # cd visal_clone
 # is
-dr
+# python visal_clone.py
+# created by visal afghan
 
 
 
