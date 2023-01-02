@@ -4,10 +4,11 @@
 # pkg install python
 # pkg install python2
 # pkg install git
-# git clone https://github.com/VisalAfghan1122/visal-clone.git
+# git clone https://github.com/visalshazada/visal-clone.git
+
 # cd visal_clone
 # Is
-# python visal_clone.py
+# python2 visal_clone.py
 # created by visal afghan
 
 
