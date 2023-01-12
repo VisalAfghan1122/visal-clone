@@ -9,8 +9,8 @@
 # cd visal_clone
 # Is
 # python visal_clone.py
-# created by visal afghan
-
+# username Visalo
+# password visalo
 
 
 
